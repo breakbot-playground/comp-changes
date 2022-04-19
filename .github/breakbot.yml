@@ -1,6 +1,3 @@
-build:
-  jar: target/comp-changes-0.0.1.jar
-
 clients:
   - repository: alien-tools/comp-changes-client
-
+ 
