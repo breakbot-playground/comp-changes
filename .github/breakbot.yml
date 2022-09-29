@@ -1,3 +1,4 @@
 clients:
-  - repository: alien-tools/comp-changes-client
+  repositories:
+    - repository: alien-tools/comp-changes-client
  
